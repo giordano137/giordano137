@@ -1,37 +1,31 @@
-# kryptomrx 👋
+# kryptomrx
 
-**Full-Stack Developer | AI Enthusiast | Open Source Contributor**
+*Infrastructure · Systems Exploration · Automation*
 
-🔭 Currently building: **[TONL-MCP Bridge](https://github.com/kryptomrx/tonl-mcp-bridge)** - Reduce LLM token costs by 30-60%
+I spend my time taking systems apart, figuring out how they work, and attempting to rebuild them. I am currently learning deep infrastructure, secure routing, and how to optimize data flows.
 
-🚀 Recently shipped: Token optimization library with GPT-5, Claude 4, Gemini 2.5 support
+## What I'm Learning & Building
 
-💡 Interested in: AI/ML, MCP Servers, Token Optimization, RAG Systems
+*   **Infrastructure:** Exploring isolated, self-hosted environments (Kubernetes, Istio, custom Matrix Synapse setups).
+*   **Architecture:** Experimenting with zero-trust network models and alternative communication protocols.
+*   **Workflow Optimization:** Maintaining [TONL-MCP Bridge](https://github.com/kryptomrx/tonl-mcp-bridge) to understand and improve token efficiency in LLM APIs.
 
-## 🛠️ Tech Stack
+## Current Toolkit
 
-**Languages:** TypeScript, JavaScript, Python  
-**Frontend:** React, HTML, CSS  
-**Backend:** Node.js, Docker  
-**Databases:** PostgreSQL, MongoDB, MySQL  
-**AI/ML:** OpenAI API, Anthropic Claude, Google Gemini  
-**DevOps:** Linux, Docker
+*These are the tools I'm actively using and learning:*
 
-## 📦 Notable Projects
+*   **Ops & Routing:** Linux, Docker, K8s, Istio
+*   **Scripting:** Python, TypeScript, Bash
+*   **AI Integration:** MCP Servers, API orchestration, RAG architectures
+*   **Documentation & Web:** LaTeX, Svelte/Astro
+
+## Highlighted Experiment
 
 ### [TONL-MCP Bridge](https://github.com/kryptomrx/tonl-mcp-bridge)
 [![npm](https://img.shields.io/npm/v/tonl-mcp-bridge)](https://www.npmjs.com/package/tonl-mcp-bridge)
 [![Tests](https://img.shields.io/badge/tests-45%20passing-brightgreen)](https://github.com/kryptomrx/tonl-mcp-bridge)
 
-TypeScript library & CLI for token optimization. Converts JSON/YAML to TONL format, saving 30-60% tokens for GPT-5, Claude 4, and Gemini 2.5.
+A tool I built to learn about and reduce token overhead. It converts JSON/YAML into high-density TONL structures to save context window space in automated pipelines.
 ```bash
 npm install -g tonl-mcp-bridge
 ```
-
-## 📫 Connect
-
-[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?logo=discord&logoColor=white)](https://discord.gg/9CUbt6Rqpe)
-
----
-
-💡 *Open to collaborations on AI/ML projects and token optimization tools*
