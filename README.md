@@ -1,6 +1,5 @@
-**giordano137**
+**Bruno** · 18 · Germany
 
-18 — building noz, a self-hosted digital garden with a CLI, web editor, and git-based backup system.
+Building [gleaned](https://gleaned.dev) — personal learning journal. End-to-end encrypted, self-hosted, FSRS-5 spaced repetition.
 
-I think in systems. I plan things, build them, and figure out the rest along the way.  
-Currently learning C# and PowerShell.
+Also runs ~90 containers across 4 servers (Hetzner + VPS) behind Traefik. Currently migrating to RKE2.
